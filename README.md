@@ -19,7 +19,7 @@ This walkthrough demonstrates how to set up Active Directory infrastructure in M
 - Windows 10 (21H2)
 
 
-<h2>Deployment and Configuration Steps</h2>
+<h2>Setup Steps</h2>
 
 <p>
 </p>
