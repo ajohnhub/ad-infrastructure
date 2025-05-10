@@ -2,27 +2,24 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
+This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- Active Directory Domain Services
+- PowerShell
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows Server 2022
+- Windows 10 (21H2)
 
-<h2>List of Prerequisites</h2>
 
-- Azure Virtual Machine
-- osTicket Installation files
-- Heidi SQL
-
-<h2>Installation Steps</h2>
+<h2>Deployment and Configuration Steps</h2>
 
 <p>
 </p>
